@@ -1,4 +1,4 @@
-# Damien BENAIS--CAPTAL <img src="https://user-images.githubusercontent.com/91879084/191218982-c056fec5-f71a-4e2a-a60b-619f6c7ee78e.png" width="20" height="20" align="center"/>
+# Damien BENAIS--CAPTAL <img src="https://user-images.githubusercontent.com/91879084/191218982-c056fec5-f71a-4e2a-a60b-619f6c7ee78e.png" width="20" height="20" align="end"/>
 
 ### Who am I?
 

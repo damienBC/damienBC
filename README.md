@@ -15,6 +15,6 @@ Second Year Student at Epitech Technology, Paris
 ### languages
 
 
-<img src="https://user-images.githubusercontent.com/91879084/191218849-35c88ed6-b0bc-4ebd-81cb-9a0d6308c4e9.png" width="15" height="15"/>Python
+<img src="https://user-images.githubusercontent.com/91879084/191218982-c056fec5-f71a-4e2a-a60b-619f6c7ee78e.png" width="15" height="15"/>Python
 
 

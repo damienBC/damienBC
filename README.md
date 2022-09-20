@@ -24,8 +24,8 @@ Second Year Student at Epitech Technology, Paris
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191220415-63d24532-f219-4725-a092-c8d641b6470a.png" width="20" height="20"/> Angular
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="20"/> French
-<img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="20"/> English
-![image]()
-![image]()
+<img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="10"/> French
+&nbsp;
+<img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="10"/> English
+
 

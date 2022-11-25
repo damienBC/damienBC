@@ -3,7 +3,7 @@
 ### Who am I?
 
 
-French devlopper
+French developer
 
 Born the 3rd of April 2003 (19 yo)
 

@@ -27,8 +27,8 @@ Fourth Year Student at Epitech Technology, Paris
 <br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="![image](https://github.com/user-attachments/assets/cdb77efa-81ce-40f8-92b4-b06a4f8e6425)" width="20" height="20"/> NodeJS
 <br />
-![image](https://github.com/user-attachments/assets/868486e8-87b6-4f12-a8e3-0aeab8f62bc7)
-![image](https://github.com/user-attachments/assets/ebcda556-c25e-415c-8477-561c779db390)
+<img src="https://github.com/user-attachments/assets/868486e8-87b6-4f12-a8e3-0aeab8f62bc7" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/ebcda556-c25e-415c-8477-561c779db390" width="200" height="200" />
 
 <br />
 <br />

@@ -22,6 +22,14 @@ Fourth Year Student at Epitech Technology, Paris
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191220147-a54083db-94e0-4525-87e7-6c9fa2f5339f.png" width="40" height="20"/> Web
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191220415-63d24532-f219-4725-a092-c8d641b6470a.png" width="20" height="20"/> Angular
+<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="20" height="20"/> React
+<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="![image](https://github.com/user-attachments/assets/cdb77efa-81ce-40f8-92b4-b06a4f8e6425)" width="20" height="20"/> NodeJS
+<br />
+![image](https://github.com/user-attachments/assets/868486e8-87b6-4f12-a8e3-0aeab8f62bc7)
+![image](https://github.com/user-attachments/assets/ebcda556-c25e-415c-8477-561c779db390)
+
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="10"/> French

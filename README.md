@@ -35,8 +35,7 @@ Fourth Year Student at Epitech Technology, Paris
 
 ### Languages
 
-<img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="10"/>
-<img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="10"/>
+<img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="10"/><img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="10"/>
 
 
 ### passions

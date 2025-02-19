@@ -47,7 +47,7 @@ Currently Unreal Engine developer
 <img src="https://user-images.githubusercontent.com/91879084/191239920-36632611-576d-4d9e-887a-ecc0d3f114af.png" width="20" height="10"/>&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="10"/>
 
 
-### passions
+### Passions
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191241161-96f21ba1-4d57-40c2-8511-a6adf9d485d4.png" width="20" height="20"/> video games
@@ -57,3 +57,11 @@ Currently Unreal Engine developer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191241796-d326639c-7935-4628-8971-f02a008d5361.png" width="20" height="20"/> mangas
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191242949-353ce271-355d-408f-a210-3fca7be47235.png" width="20" height="20"/> food
+
+<br />
+
+### Contacts
+
+mail: damien.benais-captal@epitech.eu
+Discord: koukidemami
+Number: +33 7 81 94 43 91

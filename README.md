@@ -38,7 +38,7 @@ Currently Unreal Engine developer
 
 <br />
 
-![image](https://github.com/user-attachments/assets/3b861b46-fce0-450a-adc2-451d359c4ad8)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ_8fxMkeRrRR19x10pc6Kq5uoaWAz8Y6ww&s" width="400" height="330"/>&nbsp;<img src="https://user-images.githubusercontent.com/91879084/191240019-450ba23c-94f4-4c61-9667-2928b2999704.png" width="20" height="10"/>
 
 <br />
 

@@ -68,4 +68,3 @@ mail: damien.benais-captal@epitech.eu
 <br />
 Discord: koukidemami
 <br />
-Number: +33 7 81 94 43 91
